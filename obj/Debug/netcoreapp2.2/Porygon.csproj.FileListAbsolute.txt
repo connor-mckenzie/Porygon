@@ -1,0 +1,11 @@
+G:\dev\Discord-Bots\Porygon\bin\Debug\netcoreapp2.2\Porygon.deps.json
+G:\dev\Discord-Bots\Porygon\bin\Debug\netcoreapp2.2\Porygon.runtimeconfig.json
+G:\dev\Discord-Bots\Porygon\bin\Debug\netcoreapp2.2\Porygon.runtimeconfig.dev.json
+G:\dev\Discord-Bots\Porygon\bin\Debug\netcoreapp2.2\Porygon.dll
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.csprojAssemblyReference.cache
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.csproj.CoreCompileInputs.cache
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.AssemblyInfoInputs.cache
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.AssemblyInfo.cs
+G:\dev\Discord-Bots\Porygon\bin\Debug\netcoreapp2.2\Porygon.pdb
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.dll
+G:\dev\Discord-Bots\Porygon\obj\Debug\netcoreapp2.2\Porygon.pdb
